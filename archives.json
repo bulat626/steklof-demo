@@ -1,0 +1,14 @@
+{
+  "site-part-01.zip": {
+    "bytes": 18339244,
+    "sha256": "566ce3c6af19d352405a3341a7bab87b0e96dcd1297449b33ff06464763ad446"
+  },
+  "site-part-02.zip": {
+    "bytes": 18864082,
+    "sha256": "50be83036ea3fff73c8814d06e1d450c3ec58d4e4503f3d12245365cf0572e1d"
+  },
+  "site-part-03.zip": {
+    "bytes": 8773846,
+    "sha256": "3929d334d8c70d4fdb065e5a2cc524c9ea2dc2db803e9ae5e3e38f23420a33f7"
+  }
+}
